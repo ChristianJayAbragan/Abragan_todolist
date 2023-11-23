@@ -69,7 +69,6 @@ const LogIn = () => {
         type="PRIMARY"
         onPress={handleSubmit(onLoginPress)}
       />
-      
     </View>
   );
 };
